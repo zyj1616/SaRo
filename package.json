@@ -1,0 +1,24 @@
+{
+  "name": "saro_web",
+  "version": "1.0.0",
+  "description": "saro's home",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zyj1616/NodeJsLearning.git"
+  },
+  "author": "y1zhou",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zyj1616/NodeJsLearning/issues"
+  },
+  "homepage": "https://github.com/zyj1616/NodeJsLearning#readme",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "html": "^1.0.0"
+  }
+}
