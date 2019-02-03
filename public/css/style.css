@@ -76,7 +76,8 @@ img.thumbnail {
   width: 100%;
   height: 100%;
 }
-.navbar-logo img,
+
+
 .navbar-main {
   box-shadow: 0 4px 10px rgba(0,0,0,0.05);
 }
@@ -490,6 +491,8 @@ iframe {
   width: 50vw;  /*638px*/
   height: 30vw; /*493px*/
 }
+
+
 .section{
   padding: 1.5rem 1.5rem;
 }
